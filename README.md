@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Haris Mansah
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on Data Analytics project
+- 🌱 I’m currently learning SQL, Python and HTML
 
 <!---
 harismansaharh/harismansaharh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
